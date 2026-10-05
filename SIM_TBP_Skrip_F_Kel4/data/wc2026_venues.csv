@@ -1,0 +1,17 @@
+id,name,city,country,capacity,lat,lon
+1,MetLife Stadium,East Rutherford NJ,USA,82500,40.8135,-74.0745
+2,SoFi Stadium,Inglewood CA,USA,70240,33.9535,-118.3392
+3,AT&T Stadium,Arlington TX,USA,80000,32.7473,-97.0945
+4,NRG Stadium,Houston TX,USA,72220,29.6847,-95.4107
+5,Mercedes-Benz Stadium,Atlanta GA,USA,71000,33.7553,-84.4006
+6,Hard Rock Stadium,Miami Gardens FL,USA,65326,25.9580,-80.2389
+7,Lincoln Financial Field,Philadelphia PA,USA,69596,39.9008,-75.1675
+8,Gillette Stadium,Foxborough MA,USA,65878,42.0909,-71.2643
+9,Levi's Stadium,Santa Clara CA,USA,68500,37.4030,-121.9700
+10,Lumen Field,Seattle WA,USA,68740,47.5952,-122.3316
+11,Arrowhead Stadium,Kansas City MO,USA,76416,39.0489,-94.4839
+12,BMO Field,Toronto ON,Canada,45500,43.6332,-79.4185
+13,BC Place,Vancouver BC,Canada,54500,49.2768,-123.1119
+14,Estadio Azteca,Mexico City,Mexico,87000,19.3029,-99.1505
+15,Estadio Akron,Guadalajara,Mexico,46232,20.6817,-103.4625
+16,Estadio BBVA,Monterrey,Mexico,53500,25.6692,-100.2447
