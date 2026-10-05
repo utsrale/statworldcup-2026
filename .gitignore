@@ -4,5 +4,12 @@
 .Ruserdata
 .Renviron
 *.log
+
+# Documents & Reports
+*.docx
+*.pdf
+*.zip
+*.py
+fifa_world_cup_hub_project_brief.md
 temp_report/
 temp_template/
