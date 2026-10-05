@@ -1,7 +1,7 @@
 # StatWorldCup 2026 🏆
 
 > **FIFA World Cup 2026 Prediction & Data Intelligence Hub**  
-> Proyek *Team Based Project (TBP)* - Sistem Informasi Manajemen (Kelas F, Kelompok 4)
+> Proyek *Team Based Project (TBP)* - Sistem Informasi Manajemen
 
 ---
 
@@ -48,15 +48,6 @@
   - [football-data.org](https://www.football-data.org/) (Data Turnamen)
   - [Open-Meteo](https://open-meteo.com/) (Prakiraan Cuaca Real-time)
   - [TokenRouter](https://tokenrouter.com/) (AI Chatbot MiniMax-M3)
-
----
-
-## 👥 Tim Pengembang (Kelompok 4)
-* **Ahmad Zaakiy Hidayat** (M0724019)
-* **Fikri Adhiatma Nugroho** (M0724027)
-* **Michael Petra Pakpahan** (M0724065)
-* **Pancar Aura Zaki Ardika** (M0724071)
-* **Naufal Fadhillah Pellu** (M0724077)
 
 ---
 
